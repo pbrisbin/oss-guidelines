@@ -4,12 +4,12 @@ Practices and standards for authoring and maintaining Open Source Software.
 
 ## Contents
 
-- [Terminology](#Terminology)
-- [Status](#Status)
-- [Files](#Files)
-- [Versioning](#Versioning)
-- [Documentation](#Documentation)
-- [Testing](#Testing)
+- [Terminology](#terminology)
+- [Status](#status)
+- [Files](#files)
+- [Versioning](#versioning)
+- [Documentation](#documentation)
+- [Testing](#testing)
 
 ## Terminology
 
