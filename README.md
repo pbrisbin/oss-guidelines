@@ -1,5 +1,8 @@
 # OSS Guidelines
 
+**Archived**: I still follow the patterns described here, but the idea of documenting
+and (automatically) enforcing them has not taken off.
+
 Practices and standards for authoring and maintaining Open Source Software.
 
 ## Contents
